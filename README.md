@@ -1,128 +1,132 @@
-# 👋 Hi, I’m **Shwastik / Swastik.ai**
+<h1 align="center">🚀 Welcome to <span style="color:#0078ff;">Shwastik Tech Solutions</span></h1>
+<h3 align="center">Empowering Innovation through Technology | <a href="https://swastik.ai" target="_blank">swastik.ai</a></h3>
 
-> Building intelligent, transformative tech for the future
+---
 
-## 🏢 About Shwastik Tech Solutions
+### 🏢 About Us
 
-Founded in **2019**, **Shwastik Tech Solutions (Swastik.ai)** has grown from a lean startup to a full-stack technology provider delivering high-impact digital solutions across India.  
-We specialize in **web development**, **software engineering**, **AI solutions**, **UI/UX design**, and more. :contentReference[oaicite:1]{index=1}  
+Founded in **2024**, **Shwastik Tech Solutions (Swastik.ai)** is a modern, innovation-driven technology company specializing in crafting intelligent digital solutions.  
+We design, develop, and deploy **scalable**, **secure**, and **impactful** products for businesses worldwide.
 
-- 📌 **Location**: Bihar, India  
-- 📞 **Contact**: contact@swastik.ai | +91 7654531678 :contentReference[oaicite:2]{index=2}  
-- 📊 **Milestones**:  
-  • 5+ years of experience :contentReference[oaicite:3]{index=3}  
-  • 100+ projects delivered :contentReference[oaicite:4]{index=4}  
-  • 50+ happy clients :contentReference[oaicite:5]{index=5}  
+> 💡 *We don’t just build software — we build growth engines.*
 
-### 🧭 Vision & Mission
+- 🌍 **Location:** Bihar, India  
+- 📧 **Email:** contact@swastik.ai  
+- 📞 **Phone:** +91 7654531678  
+- 🌐 **Website:** [https://swastik.ai](https://swastik.ai)
+
+---
+
+### 🎯 Vision & Mission
 
 **Vision**  
-> To be the leading technology solutions provider, driving digital transformation and innovation across industries. :contentReference[oaicite:6]{index=6}  
+> To be a leading global innovator transforming businesses through intelligent technology solutions.
 
 **Mission**  
-> To deliver cutting-edge technology solutions that empower businesses to achieve their full potential. :contentReference[oaicite:7]{index=7}  
+> To deliver cutting-edge software, web, and AI solutions that empower organizations to scale and innovate faster.
 
 **Core Values**  
-- Excellence  
-- Innovation  
-- Integrity  
-- Teamwork :contentReference[oaicite:8]{index=8}  
+- ⚙️ Innovation  
+- 💼 Excellence  
+- 🔒 Integrity  
+- 🤝 Collaboration  
+- 🧠 Continuous Learning  
 
 ---
 
-## 💼 Services & Capabilities
+### 💼 What We Do
 
-Here’s what we offer:
-
-| Domain | What We Do |
-|---|---|
-| Web & Mobile | Full-stack development (frontend & backend), responsive apps |
-| AI / ML | Intelligent models, data pipelines, custom AI solutions |
-| UI / UX | User-centric design, prototypes, usability research |
-| Software Dev | Enterprise software, SaaS, legacy upgrades |
-| Consulting & R&D | Tech strategy, prototyping, innovation labs |
+| Domain | Expertise |
+|:--|:--|
+| **Web Development** | Full-stack development with Python, Django, Node.js, React.js, and modern frameworks |
+| **Mobile Applications** | Flutter & React Native for cross-platform excellence |
+| **AI / ML** | Intelligent automation, predictive modeling, NLP, and data insights |
+| **UI/UX Design** | Human-centered, aesthetic, and data-driven designs |
+| **Custom Software** | Tailored enterprise-grade solutions for unique business challenges |
 
 ---
 
-## 🏗️ Projects & Showcase
+### 🧠 Tech Stack
 
-Some highlight projects (you can link to repositories or case studies):
-
-- **Project A** — AI-powered analytics dashboard  
-- **Project B** — E-commerce web & mobile platform  
-- **Project C** — Custom automation & workflow tools  
-
-*Each project repo could list tech stack, challenges, results.*  
-
----
-
-## 🛠️ Tech Stack
-
-Here are some of our go-to technologies and tools:
-
-- **Frontend**: React, Vue, Angular, HTML/CSS, Tailwind  
-- **Backend**: Node.js, Python (Django / Flask), Java / Spring  
-- **Databases / Storage**: PostgreSQL, MySQL, MongoDB, Redis  
-- **AI / ML**: TensorFlow, PyTorch, scikit-learn, custom models  
-- **DevOps / Infra**: Docker, Kubernetes, AWS / GCP / Azure, CI/CD pipelines  
-- **Design & Tools**: Figma, Adobe XD, Sketch, Zeplin  
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
+**Backend:** Python (Django / FastAPI), Node.js, Express.js  
+**Database:** MySQL, PostgreSQL, MongoDB, SQLite  
+**DevOps / Cloud:** AWS, DigitalOcean, Docker, GitHub Actions  
+**AI / ML Tools:** TensorFlow, PyTorch, scikit-learn  
+**Design:** Figma, Adobe XD, Framer, Canva  
 
 ---
 
-## ✨ Why Collaborate With Us?
+### 🏗️ Featured Projects
 
-- We combine **innovation + practical execution**  
-- Fast prototyping and iteration cycles  
-- Transparent communication & strong ethics  
-- End-to-end support from design to deployment  
+- **Jointlr** – Smart business collaboration platform  
+- **ScreenBlock** – Secure system monitoring and access control app  
+- **Hedge+** – Advanced trading system integrating Binance and MT5 APIs  
+- **Clinic Management Suite** – End-to-end healthcare billing and patient record system  
 
----
-
-## 📬 Let’s Connect
-
-- 🌐 Website: [swastik.ai](https://swastik.ai)  
-- 📧 Email: contact@swastik.ai  
-- 📞 Phone: +91 7654531678  
-- 📱 Social / LinkedIn / Instagram: *(Your social handles, if any)*  
-- 📘 Blog / Thoughts: *(Link blog or medium, if you publish content)*  
+*(Visit [swastik.ai/projects](https://swastik.ai/projects) for more.)*
 
 ---
 
-## 📌 Fun / Personal Note (Optional)
+### 🏆 Why Choose Shwastik
 
-> “We believe in building with heart and code. Every line, every design, every model is part of a vision to uplift businesses and innovation across India.”  
+- ✅ Full-cycle product development — from concept to deployment  
+- 🧩 Customized and scalable architecture  
+- 🔒 Security-first approach  
+- ⚡ Rapid delivery with agile methodology  
+- 💬 Transparent communication and lifelong support  
 
-You can also include a small personal signature, emoji, or motto.
-
----
-
-## ✅ Getting Started (for newcomers)
-
-If you are a developer or collaborator looking to contribute:
-
-1. Fork this repository  
-2. Clone locally  
-3. Install dependencies  
-4. Read contribution guidelines (if present)  
-5. Run tests / lint / submit PR  
+> *We deliver not just technology — but trust, performance, and results.*
 
 ---
 
-## 🔖 Badges & Metrics (Optional)
+### 🧭 Our Journey
 
-You can include shields / badges:
-
-- ![GitHub followers](https://img.shields.io/github/followers/YourUsername)  
-- ![Top Langs](https://img.shields.io/github/languages/top/YourUsername/Repo)  
-- ![Stars](https://img.shields.io/github/stars/YourUsername/Repo)  
-- ![License](https://img.shields.io/github/license/YourUsername/Repo)  
+- 🚀 **2024** – Founded with a mission to make technology accessible to all businesses  
+- 🤝 **2025** – Expanded across India with 50+ successful deployments  
+- 🌐 **Future** – Aiming to scale globally with AI-driven enterprise solutions  
 
 ---
 
-## 📝 License
+### 📊 Quick Stats
 
-&copy; 2025 **Shwastik Tech Solutions / Swastik.ai**. All rights reserved.  
+| Metric | Value |
+|:--|:--:|
+| 🗓️ Founded | 2024 |
+| 💼 Projects Completed | 100+ |
+| 👨‍💻 Team Members | 20+ |
+| 🌎 Clients Served | 50+ |
+| 🏙️ Headquarters | Bihar, India |
 
 ---
 
-**Thank you** for visiting this profile. Let’s build something amazing! 🚀  
+### 📬 Connect With Us
+
+<p align="center">
+  <a href="https://swastik.ai"><img src="https://img.shields.io/badge/Website-0078FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:contact@swastik.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/company/swastik-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/swastik-ai"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧩 Contribution & Collaboration
+
+If you’re passionate about building modern tech and want to collaborate:
+1. Fork our repos  
+2. Create a feature branch  
+3. Commit your changes  
+4. Open a Pull Request 🚀  
+
+> “At Shwastik, we believe collaboration sparks innovation.”
+
+---
+
+### 📜 License
+
+© 2025 **Shwastik Tech Solutions / Swastik.ai**. All Rights Reserved.
+
+---
+
+<h3 align="center">✨ Thank you for visiting! Let’s build something extraordinary together.</h3>

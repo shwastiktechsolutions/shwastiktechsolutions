@@ -105,8 +105,8 @@ We design, develop, and deploy **scalable**, **secure**, and **impactful** produ
 <p align="center">
   <a href="https://swastik.ai"><img src="https://img.shields.io/badge/Website-0078FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:contact@swastik.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/company/swastik-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/swastik-ai"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://linkedin.com/company/swastik-ai](https://www.linkedin.com/company/shwastik-tech-solutions-pvt-ltd/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://github.com/swastik-ai](https://github.com/shwastiktechsolutions)"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
